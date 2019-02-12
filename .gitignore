@@ -1,0 +1,6 @@
+#ignore this folders
+untracked/
+
+#ignore the extension
+*.bnd
+
